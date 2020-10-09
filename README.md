@@ -16,3 +16,7 @@ asdf install
 bundle
 ./up
 ```
+
+## See also
+
+* https://github.com/tmuxinator/tmuxinator can fire up all the processes for you
